@@ -18,11 +18,10 @@ Bird strikes may occur during any phase of flight, but are most likely during th
 - Step 4 : It was observed that There was empty and null value.
 - Step 5 : Remove empty value, null value and unnecessary column.
 - Step 6 : In the report view, under the view tab, Enter a new theme
-- Step 7 : Since the data contains various charts, thus in order to represent the data, a new visual was added using the three ellipses in the visualizations pane in report view. 
-- Step 8 : Visual filters (Slicers) were added for three fields named "Sky condition", "Year" & "Top 20 bird type".
-- Step 9 : Two card visuals were added to the canvas, one representing Total bird strikes & other representing total Cost.
-- Step 10 : Makde different charts base on our case study
-- Step 11 : Different case studys are mentioned below
+- Step 7 : Visual filters (Slicers) were added for three fields named "Sky condition", "Year" & "Top 20 bird type".
+- Step 8 : Two card visuals were added to the canvas, one representing Total bird strikes & other representing total Cost.
+- Step 9 : Makde different charts base on our case study
+- Step 10 : Different case studys are mentioned below
 
       (a) Visuals Depicting the Number of Bird Strike
 
@@ -61,4 +60,4 @@ Bird strikes may occur during any phase of flight, but are most likely during th
 [Bird Strikes Analysis Report .pdf](https://github.com/ArnabGH2/Bird_strikes/files/14887307/Bird.Strikes.Analysis.Report.pdf)
 
 
- #### A single page report was created on Power BI Desktop & it was then published to Power BI Service, and Make a PPT by findings main KPIs and discussing the  key insights.
+ #### A double page report was created on Power BI Desktop & it was then published to Power BI Service, and Make a PPT by findings main KPIs and discussing the  key insights.
