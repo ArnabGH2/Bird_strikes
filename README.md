@@ -1,5 +1,6 @@
 # Bird_Strikes
 
+This is the 2nd project of my first internship by UM
 
 ## Problem Statement
 
@@ -60,4 +61,4 @@ Bird strikes may occur during any phase of flight, but are most likely during th
 [Bird Strikes Analysis Report .pdf](https://github.com/ArnabGH2/Bird_strikes/files/14887307/Bird.Strikes.Analysis.Report.pdf)
 
 
- #### A single page report was created on Power BI Desktop & it was then published to Power BI Service, and Make a PPT by findings main KPIs discussing the  key insights.
+ #### A single page report was created on Power BI Desktop & it was then published to Power BI Service, and Make a PPT by findings main KPIs and discussing the  key insights.
