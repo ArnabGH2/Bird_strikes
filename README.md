@@ -1,6 +1,6 @@
 # Bird_Strikes
 
-This is the 2nd project of my first internship by UM
+This is the 1st project of my first internship by UM
 
 ## Problem Statement
 
