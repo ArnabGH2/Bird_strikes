@@ -23,32 +23,31 @@ Bird strikes may occur during any phase of flight, but are most likely during th
 - Step 10 : Makde different charts base on our case study
 - Step 11 : Different case studys are mentioned below
 
-  (a) Visuals Depicting the Number of Bird Strike
+      (a) Visuals Depicting the Number of Bird Strike
 
-  (b) Yearly Analysis & Bird Strikes in the US
+      (b) Yearly Analysis & Bird Strikes in the US
   
-  (c) Top 10 US Airlines in terms of having encountered bird strikes
+      (c) Top 10 US Airlines in terms of having encountered bird strikes
   
-  (d) Airports with most incidents of bird strikes – Top 50
+      (d) Airports with most incidents of bird strikes – Top 50
   
-  (e) Yearly Cost Incurred due to Bird Strikesk
-  
-  (f) When do most bird strikes occur?
+      (e) Yearly Cost Incurred due to Bird Strikesk
 
-  (g) Altitude of Aero planes at the time of strike
+      (f) When do most bird strikes occur?
+
+      (g) Altitude of Aero planes at the time of strike
   
-  (h) Phase of flight at the time of the strike.
+      (h) Phase of flight at the time of the strike.
   
-  (i) Average Altitude of the Aero planes in different phases at the time of strike
+      (i) Average Altitude of the Aero planes in different phases at the time of strike
   
-  (j) Effect of Bird Strikes & Impact on Flight
+      (j) Effect of Bird Strikes & Impact on Flight
   
-  (k) Effect of Strike at Different Altitude
+      (k) Effect of Strike at Different Altitude
   
-  (l) Were Pilots Informed? & Prior Warning and Effect of Strike Relation
-  
-  
- 
+      (l) Were Pilots Informed? & Prior Warning and Effect of Strike Relation
+
+
  # Report Snapshot (Power BI DESKTOP)
 
  
@@ -61,4 +60,4 @@ Bird strikes may occur during any phase of flight, but are most likely during th
 [Bird Strikes Analysis Report .pdf](https://github.com/ArnabGH2/Bird_strikes/files/14887307/Bird.Strikes.Analysis.Report.pdf)
 
 
- #### A single page report was created on Power BI Desktop & it was then published to Power BI Service.
+ #### A single page report was created on Power BI Desktop & it was then published to Power BI Service, and Make a PPT by findings main KPIs discussing the  key insights.
